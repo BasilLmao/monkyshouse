@@ -3,19 +3,19 @@
     "Name": "Tridal Wave",
     "Creator": "zDumm/Boink",
     "Rating": "Extreme Demon",
-    "100Points": "250.00"
+    "Points": "3"
   },
   
   "2": {
     "Name": "BloodWave",
     "Rating": "Extreme Demon",
-    "100Points": "200.00"
+    "Points": "2"
   },
   
   "3": {
     "Name": "Mermoria",
     "Creator": "zDumm/Boink",
     "Rating": "Insane Demon",
-    "100Points": "150.00"
+    "Points": "1"
   }
 }
