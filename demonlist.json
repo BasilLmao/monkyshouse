@@ -1,13 +1,19 @@
 {
   "1": {
-    "Name": "BloodWave",
-    "Creator": "zDumm/Zoink",
+    "Name": "Tridal Wave",
+    "Creator": "zDumm/Boink",
     "Rating": "Extreme Demon"
   },
   
   "2": {
+    "Name": "BloodWave",
+    "Creator": "zDumm/Boink",
+    "Rating": "Extreme Demon"
+  },
+  
+  "3": {
     "Name": "Mermoria",
-    "Creator": "zDumm/Zoink",
+    "Creator": "zDumm/Boink",
     "Rating": "Insane Demon"
   }
 }
