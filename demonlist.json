@@ -1,21 +1,28 @@
 {
   "1": {
-    "Name": "Tridal Wave",
-    "Creator": "zDumm/Boink",
+    "Name": "Kocmoc",
+    "Creator": "Boink",
     "Rating": "Extreme Demon",
-    "Points": "3"
+    "Points": "1"
   },
   
   "2": {
-    "Name": "BloodWave",
-    "Creator": "zDumm/Boink",
+    "Name": "Tridal Wave",
+    "Creator": "Boink",
     "Rating": "Extreme Demon",
-    "Points": "2"
+    "Points": "1"
   },
   
   "3": {
-    "Name": "Mermoria",
-    "Creator": "zDumm/Boink",
+    "Name": "BloodWave",
+    "Creator": "Boink",
+    "Rating": "Extreme Demon",
+    "Points": "1"
+  },
+
+  "4": {
+    "Name": "Memoria",
+    "Creator": "Boink",
     "Rating": "Insane Demon",
     "Points": "1"
   }
